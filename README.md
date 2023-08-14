@@ -32,7 +32,7 @@ To authenticate with the Bard API, you need to obtain the session value. Here's 
 ## Usage
 
 ```javascript
-const google_bard_api = require('google_bard_api')
+const google_bard_api = require('bard-ai-google')
 
 const cookie = "jdfvkdfvkdjfvkldfvdfv/dfvdfnvjvdfv."
 
