@@ -4,15 +4,33 @@
   "description": "A reverse engineered API for Google Bard chatbot",
   "main": "index.js",
   "type": "commonjs",
+  "keywords": [
+    "node",
+    "library",
+    "Bard",
+    "Google",
+    "AI",
+    "chat",
+    "conversational",
+    "LaMDA",
+    "coding",
+    "math",
+    "writing",
+    "bard-api"
+  ],
   "scripts": {
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "author": "Rohit Sharma",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^1.4.0",
     "marked": "^7.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohit2k3/bard-ai-google"
   }
 }
